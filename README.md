@@ -15,7 +15,7 @@ This is a MCQ system to conduct an assessment of few subjects.
 3. Let's the users answer and calculate the score based on their answer.
 
 Project Design:
-<img width="1203" alt="image" src="https://user-images.githubusercontent.com/98897446/200110523-fa8a1f5f-0708-4517-a29f-0df76ffcff6a.png">
+<img width="1003" alt="image" src="https://user-images.githubusercontent.com/98897446/200110523-fa8a1f5f-0708-4517-a29f-0df76ffcff6a.png">
 
 System Architecture:
 
